@@ -30,3 +30,6 @@ Place the CSVs in `data/raw/` (not included in this repo due to license terms).
 - `notebooks/03_repeat_purchase_model` -- repeat-purchase prediction, leakage fixes
 - `notebooks/04_business_translation` -- segment analysis and findings
 - `outputs/business_memo.md` -- 1-page business writeup
+
+## Live Dashboard
+[View interactive dashboard on Tableau Public](https://public.tableau.com/views/CustomerCLVLoyaltyDashboard/Dashboard1?:language=en-US&publish=yes)

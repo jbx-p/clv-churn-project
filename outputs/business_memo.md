@@ -34,3 +34,4 @@ The Platinum segment alone represents R$442.8K in projected 12-month value acros
 
 ---
 *Methodology, code, and full model diagnostics available in the accompanying GitHub repository.*
+*Interactive dashboard: https://public.tableau.com/views/CustomerCLVLoyaltyDashboard/Dashboard1*
